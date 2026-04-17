@@ -34,7 +34,7 @@ CloudWatch picks up all Lambda logs automatically for monitoring and debugging.
 
 - Cognito -- user authentication and session management
 - API Gateway -- REST API with Cognito authorizer
-- Lambda -- serverless backend (Python)
+- Lambda -- serverless backend (Python) (check repository root for the function)
 - DynamoDB -- stores file and folder metadata
 - S3 -- file storage (private bucket) and frontend hosting (public bucket)
 - CloudFront -- CDN for the frontend, provides HTTPS
