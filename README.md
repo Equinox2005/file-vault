@@ -2,6 +2,8 @@
 
 A secure file storage and sharing app built on AWS for CS 1660 (Intro to Cloud Computing). Users can sign up, upload files, organize them into folders, and share files with time-limited links. Shared file recipients get an email notification via SNS.
 
+Link for the live app: https://d2vixqlazd8uyw.cloudfront.net/
+
 ## Quick Setup
 
 1. Clone the repo and install dependencies:
